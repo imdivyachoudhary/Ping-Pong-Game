@@ -1,7 +1,7 @@
 # Ping-Pong-Game
 PIng-Pong Game
 
-Run the following commands in project diractory:-
+Run the following commands in project directory:-
   npm install
   npm start
   

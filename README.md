@@ -1,4 +1,6 @@
 # Ping-Pong-Game
+
+A simple two user ans single system Ping-Pong Game.
 - Press Enter to start playing game.
 - One Rod can be moved using keys "A" and "D"
 - Another Rod can be moved using keys "Left Arrow" and "Right Arrow".
